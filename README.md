@@ -30,6 +30,7 @@
 
 **Note**<br>
 This program is for educational purposes only and serves as a playground to explore data corruption techniques and understand the concept of file integrity. It is not intended for real-world file manipulation or security applications.
+Sample files have been added for the same purpose.
 
 **Disclaimer**<br>
 I am not liable for any loss or damage resulting from the use of this code. Use it at your own risk.
