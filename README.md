@@ -5,7 +5,7 @@
 
 **Features:**
 <ul>
-<li>Flip random bits of a file,
+<li>Flip random bits of a file
 <li>Modify specific bytes of a file
 <li>Introduce noise into a file
 <li>Swap contents of two files
